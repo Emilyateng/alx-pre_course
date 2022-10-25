@@ -1,1 +1,2 @@
-this is my readme file
+#!/bin/bash
+this is readme file > README.md
